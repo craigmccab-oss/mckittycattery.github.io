@@ -396,7 +396,7 @@ ul.plain li::before {
   overflow: hidden;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  max-width: 900px;   /* makes the video larger */
+  max-width: 1800px;   /* makes the video larger */
   margin: 0 auto;
 }
 .video-wrap iframe {
