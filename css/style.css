@@ -68,7 +68,7 @@ img {
 
 /* Header / Nav */
 header {
-  background: var(--white);
+  background: var(--purple-soft);   /* same colour as the top bar */
   box-shadow: var(--shadow);
   position: sticky;
   top: 0;
@@ -166,7 +166,7 @@ nav a.active {
   gap: 0.75rem;
   padding: 1rem;
   max-width: 1100px;
-  margin: -2rem auto 0;
+  margin: 1.5rem auto 0;
   position: relative;
   z-index: 5;
 }
